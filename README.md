@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Saraebba
-- 👀 I’m interested in everything right now because i'm a newbie in this field and really want to learn.
 - 🌱 I’m currently learning c#
 
 <!---
